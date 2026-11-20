@@ -31,6 +31,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Implement Symmetric CLIP Contrastive Loss | Compute bidirectional CLIP contrastive loss for aligned image and text embeddings with a learned logit scale. | https://www.tensortonic.com/problems/cs336-l17-symmetric-clip-loss |
 | Implement Dice Loss | Compute Dice loss for segmentation predictions using overlap, total mass, and a numerical smoothing term. | https://www.tensortonic.com/problems/dice-loss |
 | Noise Prediction Loss | Compute the DDPM simple training loss by noising a batch, running a toy denoiser and measuring its noise prediction error. | https://www.tensortonic.com/problems/diffusion-l04-noise-prediction-loss |
+| Denoising Score Matching Loss | Implement the sigma-squared weighted denoising score matching loss that trains a score model across many noise levels. | https://www.tensortonic.com/problems/diffusion-l06-denoising-score-matching-loss |
 | Implement Dropout (Training Mode) | Implement training-mode dropout in NumPy with random masking and inverted scaling of retained activations. | https://www.tensortonic.com/problems/dropout-training |
 | Implement Focal Loss | Compute mean binary focal loss from predicted probabilities using a configurable focusing parameter. | https://www.tensortonic.com/problems/focal-loss |
 | Implement Gradient Descent for a 1D Quadratic | Optimize a one-dimensional quadratic with iterative gradient descent and return the parameter trajectory. | https://www.tensortonic.com/problems/gradient-descent-quadratic |
